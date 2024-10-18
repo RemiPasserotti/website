@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "Rémi Passerotti"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - cv.qmd
+      - data.qmd
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

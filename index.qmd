@@ -1,7 +1,38 @@
 ---
 title: "Rémi Passerotti"
+format: html
+execute:
+    echo: false
+    html: true
+about:
+    id: hero-heading
+    template: jolla
+    image: "images/IMG_3921.png"
+    image-shape: round
+    image-title: profile picture
+    links:
+        - icon: twitter
+          text: twitter
+          href: https://x.com/remi_passerotti
+        - icon: linkedin
+          text: LinkedIn
+          href: https://www.linkedin.com/in/r%C3%A9mi-passerotti/
+        - icon: github
+          text: GitHub
+          href: https://github.com/RemiPasserotti
 ---
 
-This is a Quarto website.
+   
+<div style="width: 100vw; display: flex; justify-content: center; align-items: center";>
+    <div style="display: flex; justify-content: center; gap: 18px";>
+        <img src="images/SPG_CMJN_LOGO-min.jpg" alt="Mon Image" width="160" height="55.25">
+        <img src="images/logo-pacte2_0.svg" alt="Mon Image" width="160" height="55.25">
+    </div>
+</div>
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+<div style="margin: 0 50 vw 50 px;";>
+    <p>I am a rising 2nd year PhD student at Sciences Po Grenoble - Université Grenoble Alpes.</p>
+    <p>I study the trajectories of electoral pledges made by French presidential candidates. More specifically, I examine the dynamics of French presidential campaigns, and the interactions of party competition, public opinion and the media with these promises.</p>
+
+</div>
+

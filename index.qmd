@@ -31,8 +31,8 @@ about:
 </div>
 
 <div style="margin: 0 50 vw 50 px;";>
-    <br><p>I am a rising 2nd year PhD student at Sciences Po Grenoble - Université Grenoble Alpes.</p>
-    <p>I study the <b>trajectories of electoral pledges made by French presidential candidates</b>. More specifically, I examine the dynamics of French presidential campaigns, and the interactions of party competition, public opinion and the media with these promises.</p>
+    <br><p>I am a rising 2nd year PhD student at Sciences Po Grenoble - Univergit add .
+s of electoral pledges made by French presidential candidates</b>. More specifically, I examine the dynamics of French presidential campaigns, and the interactions of party competition, public opinion and the media with these promises.</p>
     <p>My research interests are <b>democratic representation, party competition, electoral pledges, public opinion, and computational social sciences methods (especially NLP)</b>.</p>
 </div>
 

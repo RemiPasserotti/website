@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "Data",
+    "section": "",
+    "text": "More to come."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Rémi Passerotti",
+    "section": "",
+    "text": "I am a rising 2nd year PhD student at Sciences Po Grenoble - Université Grenoble Alpes.\n    I study the trajectories of electoral pledges made by French presidential candidates. More specifically, I examine the dynamics of French presidential campaigns, and the interactions of party competition, public opinion and the media with these promises.\n    My research interests are democratic representation, party competition, electoral pledges, public opinion, and computational social sciences methods (especially NLP)."
+  }
+]
